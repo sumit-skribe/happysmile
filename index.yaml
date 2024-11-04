@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  happysmile:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-11-05T00:32:20.741132255+05:30"
+    description: A Helm chart for Kubernetes
+    digest: b98ec476fc9a00a6f9c46eacd15daf1c5094c8b40f79fa66ee91f8a6c092eeb2
+    name: happysmile
+    type: application
+    urls:
+    - happysmile-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-11-05T00:32:20.740595503+05:30"
